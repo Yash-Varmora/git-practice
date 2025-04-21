@@ -5,9 +5,6 @@ const App = () => {
     <h1>
       Hello
     </h1>
-                  <h2>
-                 hi...
-    </h2>
     <h3>
       jarhia
     </h3>
