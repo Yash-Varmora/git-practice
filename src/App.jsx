@@ -10,6 +10,7 @@ const App = () => {
       <h2>jbgarjbg</h2>
       <p>This line is from test1</p>
       <p>line from main</p>
+      <h2>hello form test1</h2>
     </div>
   );
 };
