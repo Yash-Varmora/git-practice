@@ -5,8 +5,8 @@ const hello = () => {
     <div>
       App hello
       <h1>hello</h1>
-      <h3>hello world</h3>
-      <h5>hi</h5>
+      <h2>hi</h2>
+      <h3>world</h3>
       <div>hello</div>;
     </div>
   );
